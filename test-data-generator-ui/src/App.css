@@ -1,0 +1,9 @@
+.App .p-splitter-panel-nested {
+  display: flow;
+  padding: 10px;
+}
+
+.App .p-splitter {
+  border: 1px solid #3f4b5b;
+  background: #212529;
+}

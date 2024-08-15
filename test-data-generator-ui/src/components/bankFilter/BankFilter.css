@@ -1,0 +1,17 @@
+.bankFilter .p-picklist .p-picklist-list .p-picklist-item.p-highlight {
+    background: #04395e;
+    color: #ffffff;
+}
+
+.bankFilter .p-picklist-list-wrapper ul {
+    padding-left: 0;
+}
+
+.bankFilter .p-picklist .p-picklist-list .p-picklist-item:not(.p-highlight):hover {
+    background: rgba(173, 214, 255, 0.15);
+    color: #ffffff;
+}
+
+.bankFilter .p-picklist .p-picklist-list .p-picklist-item {
+    padding: 0.3rem 0.5rem;
+}
